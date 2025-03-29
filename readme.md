@@ -26,6 +26,7 @@ https://leetcode.com/problems/cheapest-flights-within-k-stops/
 
 ## Metadata
 
-|Key|Value|
+| Key | Value |
+|-----|-------|
 | # of 1 Hour of Improvement | 34 |
 | Learnt at | 2025-03-29 |
